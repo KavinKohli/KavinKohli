@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kavin</h1>
-<h3 align="center">A passionate learner on the journey to become a Data Scientist</h3>
+<h1 align="center">Hello 👋, I'm Kavin</h1>
 
 ---
 
 ### 🔥 About Me
 - 🎓 **BCA (2nd Year)**
-- 📌 Interested in **Machine Learning, Data Science & Cloud**
-- 🌱 Learning **Python, Data Structures, SQL, OOP, DBMS, ML**
-- 🚀 Exploring **projects combining AI + Business + Automation**
-- 🎯 Goal: **Become a highly skilled Data Scientist and outperform expectations**
+-  Interested in **Machine Learning, Data Science & Cloud**
+-  Learning **Python, Data Structures, SQL, OOP, DBMS, ML**
+-  Exploring **projects combining AI + Business + Automation**
+-  Goal: **Become a highly skilled Data Scientist and outperform expectations**
 
 
 ---
