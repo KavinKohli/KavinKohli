@@ -3,7 +3,7 @@
 ---
 
 ### 🔥 About Me
-- 🎓 **BCA (2nd Year)**
+- 🎓 **BCA (3rd Year)**
 -  Interested in **Machine Learning, Data Science & Cloud**
 -  Learning **Python, Data Structures, SQL, OOP, DBMS, ML**
 -  Exploring **projects combining AI + Business + Automation**
